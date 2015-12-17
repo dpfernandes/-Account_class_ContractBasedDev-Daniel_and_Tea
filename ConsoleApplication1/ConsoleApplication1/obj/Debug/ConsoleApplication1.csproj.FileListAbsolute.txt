@@ -1,0 +1,10 @@
+c:\users\monia\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Zorbiadix\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Zorbiadix\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Zorbiadix\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Zorbiadix\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Zorbiadix\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Zorbiadix\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Zorbiadix\Source\Repos\NewRepo2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Zorbiadix\Source\Repos\NewRepo2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Zorbiadix\Source\Repos\NewRepo2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
