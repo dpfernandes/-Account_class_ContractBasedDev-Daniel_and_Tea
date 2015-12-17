@@ -7,10 +7,13 @@ using System.Diagnostics.Contracts;
 
 
 namespace contractbyCode
-{ // order of collection of accounts
+{ 
+    // order of collection of accounts
     [ContractClass(typeof(AccountContract))]
     public interface AccountInterface
-    { //propert provide methods to withdraw and deposit to account
+    {
+        // The Item property provides methods to withdraw and deposit to account
+        // 
         void withdraw(double amount);
 
         void deposit(double amount);
@@ -24,13 +27,13 @@ namespace contractbyCode
 
         void AccountInterface.deposit(double amount)
         {
-            //pre-condition 
-            //expception is thrown when one of argurments provided to a method is not valid.
+            //Pre-condition 
+            //Exception is thrown when one of argurments provided to a method is not valid.
             Contract.Requires<ArgumentException>(amount >= 0.0);
             balance += amount;
-            // Post-conittion 
-            Contract.Ensures(
-                          Contract.Result<double>() - amount == this.balance);
+            // Post-condition 
+            Contract.Ensures(Contract.Result<double>() - amount == this.balance);
+
         }
 
         void AccountInterface.withdraw(double amount)
